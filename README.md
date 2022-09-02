@@ -2,7 +2,7 @@
 
 ## Details
 Application that manages a car-sharing service allowing companies to rent out their cars and find customers. As a manager you can create companies and for each company
-you can add cars for sharing. As a customer you can rent a car and return a rented car. If there are no available cars in the company you can't rent them.
+you can add cars for sharing. As a customer you can rent a car and return a rented car. If there are no available cars in the company you can't rent them. All information is stored in H2 database and update after each operation.
 
 ## Example
 Manager functions:
